@@ -1,4 +1,4 @@
-# Image-classification-on-Caltech101-using-CNNs
+# Image classification on Caltech101 using CNNs
 Training of a Convolutional Neural Network (AlexNet, VGG-16, ResNet-18) for image classification on dataset Caltech-101.
 
 Useful links: 
