@@ -2,8 +2,7 @@
 Training of a Convolutional Neural Network (AlexNet, VGG-16, ResNet-18) for image classification on dataset Caltech-101.
 
 Useful links: 
-- [Google Colab](https://colab.research.google.com/drive/)
-- [Results](https://docs.google.com/spreadsheets/)
+- [Google Colab](https://colab.research.google.com/drive/1ZfbOjNpGeWR-RhuyQSG5avpDqulfxqV_)
 - [Report and discussion](/report.pdf)
 
 
