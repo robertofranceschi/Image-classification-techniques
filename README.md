@@ -5,7 +5,7 @@
 
 Training of a Convolutional Neural Network (AlexNet, VGG-16, ResNet-18) for image classification on dataset Caltech-101.
 
-🔗 Check the experiments and discussion in the [report](/report.pdf)
+🔗 Check the experiments and discussion in the [report](/report.pdf).
 
 
 ---
