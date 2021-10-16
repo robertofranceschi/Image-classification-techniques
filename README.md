@@ -1,11 +1,21 @@
-# Image classification on Caltech101 using CNNs
+# Comparison CNNs for image classification task on Caltech101
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZfbOjNpGeWR-RhuyQSG5avpDqulfxqV_)
 
+Evaluation of transfer learning and data augmentation in AlexNet, VGG-16 and ResNet for image classification on Caltech-101. 
+<br>Experiments are carried out in PyTorch. 
 
-Training of a Convolutional Neural Network (AlexNet, VGG-16, ResNet-18) for image classification on dataset Caltech-101.
+## Results 
+### Training from scratch
 
-🔗 Check the experiments and discussion in the [report](/report.pdf).
+### Transfer Learning
+
+### Data Augmentation
+
+### Pretrained model comparison
+
+
+🔗 More information about the experiments and discussion available in the [report](/report.pdf).
 
 
 ---
