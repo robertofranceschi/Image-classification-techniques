@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZfbOjNpGeWR-RhuyQSG5avpDqulfxqV_)
 
+File to be updated.
+
 Evaluation of transfer learning and data augmentation in AlexNet, VGG-16 and ResNet for image classification on Caltech-101. 
 <br>Experiments are carried out in `PyTorch`. 
 
